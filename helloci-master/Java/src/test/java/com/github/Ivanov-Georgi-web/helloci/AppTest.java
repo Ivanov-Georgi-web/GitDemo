@@ -1,4 +1,4 @@
-package com.github.vitalliuss.helloci;
+package com.github.Ivanov-Georgi-web.helloci;
 
 
 import static org.junit.Assert.*;
