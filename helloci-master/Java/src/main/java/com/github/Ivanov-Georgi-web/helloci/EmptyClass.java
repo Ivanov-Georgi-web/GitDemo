@@ -1,4 +1,4 @@
-package com.github.vitalliuss.helloci;
+package com.github.Ivanov-Georgi-web.helloci;
 
 /**
  * Empty class for Cobertura code coverage
